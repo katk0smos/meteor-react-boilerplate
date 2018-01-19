@@ -6,6 +6,12 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "meteor-node-stubs": "^0.3.2"
+    "bcrypt": "^1.0.3",
+    "classnames": "^2.2.5",
+    "jquery": "^3.3.0",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-mounter": "^1.2.0"
   }
 }
